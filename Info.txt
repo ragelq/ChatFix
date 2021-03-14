@@ -1,0 +1,13 @@
+EN:
+RageFix - This plugin is written for the Spigot 1.12.2 core. The plugin features are described below.
+
+The plugin will protect your server from using various third-party symbols. All characters that are on the keyboard are allowed, and those that are absent are prohibited. Also, in plugins you can edit the config, but to change it you need to open the plugin through WinRar, and replace the config with the one you need, then restart the server. And after these actions, you can prohibit any symbol. Also, you can forbid words.
+
+The plugin will be written in English soon. Thanks for attention.
+
+RU:
+RageFix - Этот плагин написан для ядра Spigot 1.12.2. Функции плагина описаны ниже.
+
+Плагин защитит ваш сервер от использования различных сторонних символов. Все символы, которые есть на клавиатуре, разрешены, а отсутствующие - запрещены. Кроме того, в плагинах вы можете редактировать конфигурацию, но для ее изменения вам нужно открыть плагин через WinRar и заменить конфигурацию на ту, которая вам нужна, а затем перезапустить сервер. И после этих действий вы можете запретить любой символ. Также можно запретить слова.
+
+Плагин скоро будет написан на английском языке. Спасибо за внимание.
